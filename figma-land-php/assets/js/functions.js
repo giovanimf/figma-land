@@ -9,7 +9,7 @@ $(window).on("scroll", function () {
         $('header').css({
             height: "81px",
         }).addClass("sticky")
-        $('header .logo-center img').attr("src", "https://giovani.cloud/figma-land-php/assets/img/logo-dark1.webp")
+        $('header .logo-center img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/img/logo-dark1.webp")
         $('header .right-social .facebook img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-facebook-blue.svg")
         $('header .right-social .twitter img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-twitter-blue.svg")
         $('header .right-social .linkedin img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-linkedin-blue.svg")
@@ -17,7 +17,7 @@ $(window).on("scroll", function () {
         $('header').css({
             height: "187",
         }).removeClass("sticky")
-        $('header .logo-center img').attr("src", "assets/img/logo-white1.webp")
+        $('header .logo-center img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/img/logo-white1.webp")
         $('header .right-social .facebook img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-facebook-white.svg")
         $('header .right-social .twitter img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-twitter-white.svg")
         $('header .right-social .linkedin img').attr("src", "https://giovani.cloud/wp-content/themes/gggstore/assets/icons/icon-linkedin-white.svg")
