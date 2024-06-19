@@ -1,5 +1,5 @@
 # Figman Land
-Layout feito para um processo seletivo e não está estilizado para Mobile. Existe tanto uma versão em HTML tanto em PHP para aplicar em Wordpress. Foram aplicados algumas técnicas para aumentar o desempenho como ultilização de imagens otimizadas e código organizado 
+Layout feito para um processo seletivo e não está estilizado para Mobile. Existe tanto uma versão em HTML tanto em PHP para aplicar em Wordpress. Foram aplicados algumas técnicas para aumentar o desempenho como ultilização de imagens otimizadas e código organizado.
 
 ## Tecnologias usadas 
 
